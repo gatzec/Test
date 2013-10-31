@@ -1,5 +1,6 @@
 <?php
 
-echo "Hello world";
-
+function private_email(){
+    echo "private email";
+}
 ?>
